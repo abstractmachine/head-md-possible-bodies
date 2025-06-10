@@ -7,6 +7,7 @@ Our mission in this project is to develop unique prototypes that use immersive g
 
 ## Presentations
 - [Presentations](./Presentations/)
+- [Presentation template](https://github.com/abstractmachine/head-md-possible-bodies/releases/latest)
 
 ## Projects
 These are the individual github pages for each project.
