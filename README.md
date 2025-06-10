@@ -5,7 +5,12 @@ This project focuses on creating playful, immersive virtual reality experiences 
 
 Our mission in this project is to develop unique prototypes that use immersive gameplay to explore new potentials for rehabilitation.
 
+## Presentations
+- [Presentations](./Presentations/readme.md)
+
 ## Projects
+These are the individual github pages for each project.
+
 - [Da’ata](), Ayoub Azzouzi, Karina Wolff
 - [Sparks within](), Elisa Bernard, Haneul Farmanfarmaian, Francesco Le Touzé
 - [Halcyon](), Bruno Costa, Chakir Ali
