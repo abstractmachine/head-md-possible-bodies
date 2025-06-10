@@ -7,7 +7,7 @@ This workshop focused on creating playful, immersive virtual reality experiences
 Our mission in this project was to develop unique prototypes that use immersive gameplay to explore new potentials for rehabilitation.
 
 ## PDF Presentations
-A complete PDF presentation of all the projects will be located here: [Possible Bodies Workshop](https://github.com/tarahachler/possible-bodies/releases/latest).
+A complete PDF presentation of all the projects will be located here: [Possible Bodies Workshop](https://github.com/abstractmachine/head-md-possible-bodies/releases/latest).
 
 These are individual PDF presentations of each project.
 
