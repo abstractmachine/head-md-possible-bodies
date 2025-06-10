@@ -6,7 +6,8 @@ This project focuses on creating playful, immersive virtual reality experiences 
 Our mission in this project is to develop unique prototypes that use immersive gameplay to explore new potentials for rehabilitation.
 
 ## Presentations
-- [Presentations](./Presentations/)
+Links to the PDF presentations will go here.
+
 - [Presentation template](https://github.com/abstractmachine/head-md-possible-bodies/releases/latest)
 
 ## Projects
@@ -20,7 +21,7 @@ These are the individual github pages for each project.
 - [Head of lights](), Tara Hächler, Lise Mendes
 
 ## Releases
-These are the downloadable .apk files, designed for Quest 3 headsets.
+Links to the downloadable .apk files will go here. All projects are designed for Quest 3 headsets.
 
 - [Da’ata]()
 - [Sparks within]()
@@ -28,4 +29,3 @@ These are the downloadable .apk files, designed for Quest 3 headsets.
 - [Lost Thread]()
 - [Pareidolia]()
 - [Head of lights]()
-
