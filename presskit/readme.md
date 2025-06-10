@@ -1,5 +1,4 @@
 # Presskit
-This is the presskit for the Possible Bodies workshop.
 
 ## Project
 Possible Bodies is a collaboration between the [Master Media Design](https://www.hesge.ch/head/en/programs-research/master-arts-media-design) ([HEAD – Genève](https://www.hesge.ch/head/en/)) and [Swiss Paraplegic Group](https://www.paraplegie.ch/en/).
