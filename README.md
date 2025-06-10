@@ -30,6 +30,16 @@ These are downloadable .apk files. All projects are designed to work on Quest 3 
 - [Color To Life](https://github.com/AntoninRicou/VRProject_Colour/releases/latest)
 - [Head of lights](https://github.com/tarahachler/possible-bodies/releases/latest)
 
+## Presentations
+These are individual PDF presentations of each project.
+
+- [Da’ata]
+- [Sparks within]
+- [Halcyon]
+- [Lost Thread]
+- [Color To Life]
+- [Head of lights](https://github.com/tarahachler/possible-bodies/blob/main/presskit/head-md1-possible-bodies-Head-of-lights.pdf)
+
 ## Walkthrough
 These are the link to the video walkthroughs. They were recorded inside the headset.
 
@@ -38,4 +48,4 @@ These are the link to the video walkthroughs. They were recorded inside the head
 - [Halcyon]
 - [Lost Thread]
 - [Pareidolia]
-- [Head of lights]
+- [Head of lights](https://youtu.be/_RxBggjmJms)
