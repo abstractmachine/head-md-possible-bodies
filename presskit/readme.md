@@ -12,20 +12,20 @@ A complete PDF presentation of all the projects will be located here: [Possible 
 These are individual PDF presentations of each project.
 
 - [Da’ata](https://github.com/kLMWOLFF/Daata/blob/main/PressKit/head-md1-possible-bodies-Daata.pdf)
-- [Sparks within]
-- [Halcyon]
-- [Lost Thread]
-- [Color To Life]
+- [Sparks within](https://github.com/elisabernaard/Sparks-Within/blob/main/presskit/head-md1-possible-bodies-Sparks-Within.pdf)
+- [Halcyon](https://github.com/Psemata/halcyon/blob/main/presskit/HEAD-MD1-Possible-bodies-Halcyon-BrunoCosta-ChakirAli.pdf)
+- [Lost Thread](https://github.com/LiuliuLexie/LostThread/blob/main/presskit/head-md1-possible-bodies-LostThread.pdf)
+- [Color To Life](https://github.com/AntoninRicou/VRProject_Colour/blob/main/presskit/head-md1-possible-bodies-ColourToLife-AntoninPeter.pdf)
 - [Head of lights](https://github.com/tarahachler/possible-bodies/blob/main/presskit/head-md1-possible-bodies-Head-of-lights.pdf)
 
 ## Video Walkthroughs
 These are the link to the video walkthroughs. They were recorded inside the headset.
 
 - [Da’ata](https://youtu.be/nKdnjOftJLQ)
-- [Sparks within]
+- [Sparks within](https://www.youtube.com/watch?v=HzfDeyrFpCg)
 - [Halcyon]
-- [Lost Thread]
-- [Pareidolia]
+- [Lost Thread](https://www.youtube.com/watch?v=0kUF-QwHtjQ)
+- [Color To Life]
 - [Head of lights](https://youtu.be/_RxBggjmJms)
 
 ## Quest 3 Releases
