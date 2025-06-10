@@ -1,0 +1,65 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/abstractmachine/Desktop/head-md1-possible-bodies-presentation-template/Document fonts/AdobeFnt24.lst
+FileLength:1435
+FileModTime:771218628
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Black
+FamilyName:Gotham Black
+StyleName:Regular
+MenuName:Gotham Black
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Gotham-Black
+WritingScript:Roman
+OutlineFileName:/Users/abstractmachine/Desktop/head-md1-possible-bodies-presentation-template/Document fonts/gotham-black-opentype.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:29960
+FileModTime:757878669
+NameArray:0,Mac,4,Gotham-Black
+NameArray:0,Win,1,Gotham Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Bold
+FamilyName:Gotham
+StyleName:Bold
+MenuName:Gotham
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Gotham-Bold
+WritingScript:Roman
+OutlineFileName:/Users/abstractmachine/Desktop/head-md1-possible-bodies-presentation-template/Document fonts/gotham-bold-opentype.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:30012
+FileModTime:757878670
+NameArray:0,Mac,4,Gotham-Bold
+NameArray:0,Win,1,Gotham
+%EndFont
+
