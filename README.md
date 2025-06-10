@@ -13,11 +13,11 @@ Links to the PDF presentations will go here.
 ## Projects
 These are the individual github pages for each project.
 
-- [Da’ata], Ayoub Azzouzi, Karina Wolff
-- [Sparks within], Elisa Bernard, Haneul Farmanfarmaian, Francesco Le Touzé
+- [Da’ata](https://github.com/kLMWOLFF/Daata), Ayoub Azzouzi, Karina Wolff
+- [Sparks Within](https://github.com/elisabernaard/Sparks-Within), Elisa Bernard, Haneul Farmanfarmaian, Francesco Le Touzé
 - [Halcyon](https://github.com/Psemata/halcyon), Chakir Ali, Bruno Costa
-- [Lost Thread], Liuliu Zhu, Polina Fihman
-- [Color To Life](https://github.com/AntoninRicou/VRProject_Colour), Antonin Ricou, Peter Ha
+- [Lost Thread](https://github.com/LiuliuLexie/LostThread), Polina Fihman, Liuliu Zhu
+- [Color To Life](https://github.com/AntoninRicou/VRProject_Colour), Peter Ha, Antonin Ricou
 - [Head of lights](https://github.com/tarahachler/possible-bodies/), Tara Hächler, Lise Mendes
 
 ## Releases
