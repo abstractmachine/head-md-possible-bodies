@@ -11,7 +11,7 @@ A complete PDF presentation of all the projects will be located here: [Possible 
 
 These are individual PDF presentations of each project.
 
-- [Da’ata]
+- [Da’ata](https://github.com/kLMWOLFF/Daata/blob/main/PressKit/head-md1-possible-bodies-Daata.pdf)
 - [Sparks within]
 - [Halcyon]
 - [Lost Thread]
@@ -21,7 +21,7 @@ These are individual PDF presentations of each project.
 ## Video Walkthroughs
 These are the link to the video walkthroughs. They were recorded inside the headset.
 
-- [Da’ata]
+- [Da’ata](https://youtu.be/nKdnjOftJLQ)
 - [Sparks within]
 - [Halcyon]
 - [Lost Thread]
