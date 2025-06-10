@@ -17,21 +17,21 @@ These are the individual github pages for each project.
 - [Sparks within], Elisa Bernard, Haneul Farmanfarmaian, Francesco Le Touzé
 - [Halcyon](https://github.com/Psemata/halcyon), Chakir Ali, Bruno Costa
 - [Lost Thread], Liuliu Zhu, Polina Fihman
-- [Pareidolia], Antonin Ricou, Peter Ha
+- [Color To Life](https://github.com/AntoninRicou/VRProject_Colour), Antonin Ricou, Peter Ha
 - [Head of lights](https://github.com/tarahachler/possible-bodies/), Tara Hächler, Lise Mendes
 
 ## Releases
-Links to the downloadable .apk files will go here. All projects are designed for Quest 3 headsets.
+These are downloadable .apk files. All projects are designed to work on Quest 3 headsets.
 
 - [Da’ata]
 - [Sparks within]
 - [Halcyon]
 - [Lost Thread]
-- [Pareidolia]
+- [Color To Life](https://github.com/AntoninRicou/VRProject_Colour/releases/latest)
 - [Head of lights](https://github.com/tarahachler/possible-bodies/releases/latest)
 
 ## Walkthrough
-These are the link to the video walkthroughs. They were recording inside the headset.
+These are the link to the video walkthroughs. They were recorded inside the headset.
 
 - [Da’ata]
 - [Sparks within]
