@@ -6,7 +6,7 @@ This project focuses on creating playful, immersive virtual reality experiences 
 Our mission in this project is to develop unique prototypes that use immersive gameplay to explore new potentials for rehabilitation.
 
 ## Presentations
-- [Presentations](./Presentations/readme.md)
+- [Presentations](./Presentations/)
 
 ## Projects
 These are the individual github pages for each project.
