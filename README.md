@@ -18,7 +18,7 @@ These are the individual github pages for each project.
 - [Halcyon](), Bruno Costa, Chakir Ali
 - [Lost Thread](), Liuliu Zhu, Polina Fihman
 - [Pareidolia](), Antonin Ricou, Peter Ha
-- [Head of lights](), Tara Hächler, Lise Mendes
+- [Head of lights](https://github.com/tarahachler/possible-bodies/), Tara Hächler, Lise Mendes
 
 ## Releases
 Links to the downloadable .apk files will go here. All projects are designed for Quest 3 headsets.
@@ -28,7 +28,7 @@ Links to the downloadable .apk files will go here. All projects are designed for
 - [Halcyon]()
 - [Lost Thread]()
 - [Pareidolia]()
-- [Head of lights]()
+- [Head of lights](https://github.com/tarahachler/possible-bodies/releases/latest)
 
 ## Walkthrough
 These are the link to the video walkthroughs. They were recording inside the headset.
