@@ -9,5 +9,3 @@
 	- NameOfProject/
 		- Assets
 		- ...
-
-
