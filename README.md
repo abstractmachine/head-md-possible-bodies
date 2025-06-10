@@ -29,3 +29,13 @@ Links to the downloadable .apk files will go here. All projects are designed for
 - [Lost Thread]()
 - [Pareidolia]()
 - [Head of lights]()
+
+## Walkthrough
+These are the link to the video walkthroughs. They were recording inside the headset.
+
+- [Da’ata]()
+- [Sparks within]()
+- [Halcyon]()
+- [Lost Thread]()
+- [Pareidolia]()
+- [Head of lights]()
