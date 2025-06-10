@@ -24,7 +24,7 @@ These are the individual github pages for each project.
 These are downloadable .apk files. All projects are designed to work on Quest 3 headsets.
 
 - [Da’ata](https://github.com/kLMWOLFF/Daata/releases/latest)
-- [Sparks within]
+- [Sparks within](https://github.com/elisabernaard/Sparks-Within/releases/latest)
 - [Halcyon](https://github.com/Psemata/halcyon/releases/latest)
 - [Lost Thread](https://github.com/LiuliuLexie/LostThread/releases/latest)
 - [Color To Life](https://github.com/AntoninRicou/VRProject_Colour/releases/latest)
