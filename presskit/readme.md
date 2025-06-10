@@ -7,7 +7,7 @@ This project focuses on creating playful, immersive virtual reality experiences 
 
 Our mission in this project is to develop unique prototypes that use immersive gameplay to explore new potentials for rehabilitation.
 
-## Presentations
+## PDF Presentations
 These are individual PDF presentations of each project.
 
 - [Da’ata]
@@ -16,6 +16,26 @@ These are individual PDF presentations of each project.
 - [Lost Thread]
 - [Color To Life]
 - [Head of lights](https://github.com/tarahachler/possible-bodies/blob/main/presskit/head-md1-possible-bodies-Head-of-lights.pdf)
+
+## Video Walkthroughs
+These are the link to the video walkthroughs. They were recorded inside the headset.
+
+- [Da’ata]
+- [Sparks within]
+- [Halcyon]
+- [Lost Thread]
+- [Pareidolia]
+- [Head of lights](https://youtu.be/_RxBggjmJms)
+
+## Quest 3 Releases
+These are downloadable .apk files. All projects are designed to work on Quest 3 headsets.
+
+- [Da’ata](https://github.com/kLMWOLFF/Daata/releases/latest)
+- [Sparks within](https://github.com/elisabernaard/Sparks-Within/releases/latest)
+- [Halcyon](https://github.com/Psemata/halcyon/releases/latest)
+- [Lost Thread](https://github.com/LiuliuLexie/LostThread/releases/latest)
+- [Color To Life](https://github.com/AntoninRicou/VRProject_Colour/releases/latest)
+- [Head of lights](https://github.com/tarahachler/possible-bodies/releases/latest)
 
 ## Projects
 These are the individual github pages for each project.
@@ -26,26 +46,6 @@ These are the individual github pages for each project.
 - [Lost Thread](https://github.com/LiuliuLexie/LostThread), Polina Fihman, Liuliu Zhu
 - [Color To Life](https://github.com/AntoninRicou/VRProject_Colour), Peter Ha, Antonin Ricou
 - [Head of lights](https://github.com/tarahachler/possible-bodies/), Tara Hächler, Lise Mendes
-
-## Releases
-These are downloadable .apk files. All projects are designed to work on Quest 3 headsets.
-
-- [Da’ata](https://github.com/kLMWOLFF/Daata/releases/latest)
-- [Sparks within](https://github.com/elisabernaard/Sparks-Within/releases/latest)
-- [Halcyon](https://github.com/Psemata/halcyon/releases/latest)
-- [Lost Thread](https://github.com/LiuliuLexie/LostThread/releases/latest)
-- [Color To Life](https://github.com/AntoninRicou/VRProject_Colour/releases/latest)
-- [Head of lights](https://github.com/tarahachler/possible-bodies/releases/latest)
-
-## Walkthrough
-These are the link to the video walkthroughs. They were recorded inside the headset.
-
-- [Da’ata]
-- [Sparks within]
-- [Halcyon]
-- [Lost Thread]
-- [Pareidolia]
-- [Head of lights](https://youtu.be/_RxBggjmJms)
 
 ## Template
 Students used this [InDesign Template](https://github.com/abstractmachine/head-md-possible-bodies/blob/main/presskit/head-md-possible-bodies-template-2025-06-10-a.zip) for their presentations.
