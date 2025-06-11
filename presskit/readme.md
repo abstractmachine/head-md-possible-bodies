@@ -22,10 +22,10 @@ These are individual PDF presentations of each project.
 These are the link to the video walkthroughs. They were recorded inside the headset.
 
 - [Da’ata](https://youtu.be/nKdnjOftJLQ)
-- [Sparks within](https://www.youtube.com/watch?v=HzfDeyrFpCg)
-- [Halcyon]
+- [Sparks within](https://youtu.be/HzfDeyrFpCg)
+- [Halcyon](https://youtu.be/PkMM7-IU19Q)
 - [Lost Thread](https://www.youtube.com/watch?v=0kUF-QwHtjQ)
-- [Color To Life]
+- [Color To Life](https://youtu.be/_VJHk2bAKb8?si=IbfO6Vj5hGLDH0aA)
 - [Head of lights](https://youtu.be/_RxBggjmJms)
 
 ## Quest 3 Releases
